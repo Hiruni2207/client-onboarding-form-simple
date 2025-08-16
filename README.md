@@ -70,3 +70,7 @@ The project is organized to keep the code clean and easy to manage:
 - Placeholder URL handling improves developer experience during testing.  
 
 ---
+
+You can also access a live application of this project at:  🔗  https://client-onboarding-form-simple.vercel.app/
+
+---
